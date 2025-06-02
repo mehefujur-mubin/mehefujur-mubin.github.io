@@ -2,7 +2,7 @@
   "name": "mehefujurmubin-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mehefujur-mubin.github.io",
+  "homepage": "https://mehefujurmubin.github.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
